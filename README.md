@@ -46,8 +46,6 @@ Type in update to any clot session
 
 - Dm on ma discord - cactochan#2004 , If you wanna give some suggestions or you wanna collab with me..
 
-<hr>
-
 - Duino coin - cacti
 
 - BNB / Eth - 0x9CE5E2179A95Ba94f1B723FbfAd4710a9891c9e3
