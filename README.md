@@ -41,6 +41,7 @@ Type in update to any clot session
 ```
 
 <hr>
+
 ## Collabing and Donating
 
 - Dm on ma discord - cactochan#2004 , If you wanna give some suggestions or you wanna collab with me..
