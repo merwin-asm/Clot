@@ -16,7 +16,7 @@ A terminal which have some random cool features.
   pip install clot-terminal
 ```
 
-Or
+Or run with out installing
 
 ```
  git clone https://github.com/merwin-asm/Clot.git
@@ -27,7 +27,7 @@ Or
 ```
 
 ```
-  python3 installer.py
+  python3 main.py
 ```
 
 ### How to use ?
