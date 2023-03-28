@@ -1,7 +1,14 @@
-# Clot
+# Clot v.0.0.1
 
 ## About
 A terminal which have some random cool features.
+
+### Present Features:
+
+ - History
+ - Colorfull Foreground
+ - Made for both Windows and Linux users
+ - Command Book \[A place to notedown commands and stuff]
 
 ## Installation
 
