@@ -7,7 +7,7 @@ A terminal which have some random cool features.
 
  - History
  - Colorfull Foreground
- - Made for both Windows and Linux users
+ - Made for Linux users
  - Command Book \[A place to notedown commands and stuff]
 
 ## Installation
