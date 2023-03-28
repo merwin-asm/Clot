@@ -52,6 +52,11 @@ Type in exit
 <img src="https://cdn.discordapp.com/attachments/951417646191083551/1090291584207159366/image.png">
 </p>
 
+### Note :
+  - This terminal may be lacking some features which others offer like , going back to previous commands. \[ We be fixin it ]
+  - Some tools like vim doesnt work on it... \[ We will fix it]
+  - The terminal is slow at printing when you run somethin which takes hella time. \[ Will be def fixed]
+  
 <hr>
 
 ## Collabing and Donating
