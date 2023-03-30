@@ -1,5 +1,5 @@
 """
-Clot - Terminal v 0.0.1
+Clot - Terminal v 0.0.2
 Author : Cactochan
 
 Status  : Somehow works :)
@@ -18,7 +18,7 @@ import requests
 
 ###################################
 
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 CLOT_DIR_ = __file__.split("/").pop()
 CLOT_DIR = ""
 for e in CLOT_DIR_:
@@ -338,7 +338,7 @@ def update(v):
 def main():
     global COLOR, CLOT_DIR, VERSION
 
-    VERSION = "0.0.1"
+    VERSION = "0.0.2"
 
     clear()
 
