@@ -56,7 +56,7 @@ Type in exit
 
 ## Preview
 <p align="center">
-<img src="https://media.discordapp.net/attachments/951417646191083551/1090967924220633168/image.png?width=720&height=413">
+<img src="https://media.discordapp.net/attachments/951417646191083551/1090967924220633168/image.png">
 </p>
 
 <p align="center">
