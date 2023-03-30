@@ -4,7 +4,7 @@
 
 [![Downloads](https://static.pepy.tech/badge/clot-terminal)](https://pepy.tech/project/clot-terminal)
 
-<img src="https://media.discordapp.net/attachments/951417646191083551/1090963610383167528/image.png?width=825&height=413">
+<img src="https://media.discordapp.net/attachments/951417646191083551/1090963610383167528/image.png?width=500&height=250">
 
 ## About
 A terminal which have some random cool features.
