@@ -2,6 +2,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=merwin-asm-clot&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
+[![Downloads](https://static.pepy.tech/badge/clot-terminal)](https://pepy.tech/project/clot-terminal)
+
 ## About
 A terminal which have some random cool features.
 
