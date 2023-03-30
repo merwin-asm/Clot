@@ -1,4 +1,4 @@
-# Clot v.0.0.1
+# Clot v.0.0.2
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=merwin-asm-clot&label=Project%20views&color=0e75b6&style=flat" alt="darkmash-org" /> </p>
 
