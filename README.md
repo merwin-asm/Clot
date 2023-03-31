@@ -13,7 +13,7 @@ A terminal which have some random cool features.
 
  - History
  - Colorful Foreground
- - Made for Windows and Linux users
+ - Made for Windows and Linux users \[Tested on Ubuntu 22.10]
  - Command Book \[A place to notedown commands and stuff]
 
 ## Installation
