@@ -84,3 +84,4 @@ Type in exit
 
 #### Articles and other stuff..
  - https://dev.to/merwinmathews/colorfull-terminal-l9p
+ - https://betapage.co/product/clot-terminal
