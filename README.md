@@ -12,7 +12,7 @@ A terminal which have some random cool features.
 ### Present Features:
 
  - History
- - Colorfull Foreground
+ - Colorful Foreground
  - Made for Windows and Linux users
  - Command Book \[A place to notedown commands and stuff]
 
