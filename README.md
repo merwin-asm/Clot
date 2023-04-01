@@ -9,6 +9,8 @@
 ## About
 A terminal which have some random cool features.
 
+#### We are looking forward to point out the bugs and do some of those pull requests xD
+
 ### Present Features:
 
  - History
@@ -85,3 +87,7 @@ Type in exit
 #### Articles and other stuff..
  - https://dev.to/merwinmathews/colorfull-terminal-l9p
  - https://betapage.co/product/clot-terminal
+ - https://pypi.org/project/clot-terminal/
+ - https://pepy.tech/project/clot-terminal
+ - https://discord.gg/PyRdVJEYuG
+ 
